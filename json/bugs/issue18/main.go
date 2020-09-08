@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/segmentio/encoding/json"
+	"github.com/cloudentity/encoding/json"
 )
 
 func main() {
