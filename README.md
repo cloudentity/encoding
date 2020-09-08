@@ -3,6 +3,8 @@
 Go package containing implementations of encoders and decoders for various data
 formats.
 
+> This forked repo forces json encoding with omit empty flag
+
 ## Motivation
 
 At Segment, we do a lot of marshaling and unmarshaling of data when sending,
